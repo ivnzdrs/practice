@@ -1,0 +1,31 @@
+/* Custom styles for the page */
+body {
+    background-color: #f0f2f5; /* Background similar to Facebook's light gray */
+}
+
+.card {
+    border-radius: 10px; /* Rounded corners for the login box */
+}
+
+input {
+    height: 50px; /* Adjusting the height of input fields */
+}
+
+.btn-primary {
+    background-color: #1877f2; /* Facebook blue for the login button */
+    border: none;
+    height: 50px;
+    font-size: 18px;
+}
+
+.btn-success {
+    background-color: #42b72a; /* Facebook green for the create account button */
+    border: none;
+    height: 50px;
+    font-size: 18px;
+}
+
+p {
+    font-size: 14px;
+    color: #606770;
+}
